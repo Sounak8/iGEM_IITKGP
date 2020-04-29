@@ -1,0 +1,16 @@
+Package: BSgenome.Sarscov.UCSC.wuhCor
+Title: Full genome sequences for Coronavirus (UCSC version wuhCor1)
+Description: Full genome sequences for Taeniopygia guttata (Zebra finch) as provided by UCSC (taeGut2, Feb. 2013) and stored in Biostrings objects.
+Version: 2.0
+organism: SARS CoV 2
+common_name: Corona Virus
+provider: UCSC
+provider_version: wuhCor1
+release_date: Jan. 2020
+release_name: wuhCor1
+source_url: http://http://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/bigZips/
+organism_biocview: Sars_Cov
+BSgenomeObjname: Sarscov
+SrcDataFiles: wuhCor1.2bit from http://http://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/bigZips/
+seqs_srcdir: /Users/Sounak Saha/Downloads/iGEM/seq_srcdir
+seqfile_name: wuhCor1.2bit
